@@ -1,0 +1,13 @@
+1. microservices
+2. devtools
+3. terminal
+4. traffic sniffing
+5. web testing
+6. mobile testing
+7. postman
+8. ADB
+9. bash
+10. SQL
+11. database
+12. stress testing
+13. test disign techniques

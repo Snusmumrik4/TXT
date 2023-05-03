@@ -1,0 +1,5 @@
+favorite film: The lives of others
+fvorite serial: The game of thrones
+favorite food: tom yum
+favorite season: fall
+country to visit: Australia
